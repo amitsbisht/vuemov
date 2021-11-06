@@ -10,6 +10,8 @@ Eslint with Prettier is enabled by default to provide liniting support during de
 
 There will be env.example file to mock the .env file fields, please copy env.example and rename to .env and add your api key.
 
+The app is currently deployed on [Render](https://render.com/), check it out [here](https://vuemov.onrender.com/).
+
 ## Project setup
 
 ```
